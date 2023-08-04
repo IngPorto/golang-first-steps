@@ -13,3 +13,12 @@
 ### 6. Concurrencia y channels
 
 ### 7. Manejo de paquetes y Go Modules
+
+## Recursos
+
+* Gophers Slack: gophers.slack.com
+* Go tour: tour.golang.org
+* Golang Weekly: golangweekly.com
+* Play With Go: play-with-go.dev
+* Go by example: gobyexample.com
+* Go Time (en Spotify)
